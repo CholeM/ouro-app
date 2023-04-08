@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container'
-import ClientLayout from '../../components/admin/clientLayout';
+import ClientLayout from '../../components/admin/ClientLayout';
 
 const uploads = [
   {id: "1", file: "issue.pdf", size: "16", date: "2021-10-30"},

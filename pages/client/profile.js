@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container'
-import ClientLayout from '../../components/admin/clientLayout';
+import ClientLayout from '../../components/admin/ClientLayout';
 
 const Profile = () => {
   return (
