@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Ouro App
+A simple frontend website based on a client's project. Featuring a client-side portal where users can upload files to the system, download files from the system and download product updates.

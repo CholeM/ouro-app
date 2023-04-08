@@ -1,13 +1,13 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Homepage from "../components/Home";
+import ProductsPage from "../components/Products";
 
-export default function Home() {
+export default function Products() {
   return (
     <>
       <Header />
-      <Homepage />
+      <ProductsPage />
       <Footer />
     </>
   )

@@ -1,0 +1,197 @@
+/*-----------
+  Header
+-----------*/
+
+.header-btn {
+  color: #fff;
+  background: linear-gradient(90deg, rgba(52,144,220,1) 0%, rgba(101,116,205,1) 50%, rgba(149,97,226,1) 100%);
+  border: 0;
+}
+
+.header-btn:hover {
+  color: #fff;
+  background: linear-gradient(90deg, rgba(149,97,226,1) 0%, rgba(101,116,205,1) 50%, rgba(52,144,220,1) 100%);
+  border: 0;
+}
+.btn-white {
+  background: #fff;
+}
+
+.btn-white:hover {
+  background: #fff;
+}
+
+/*-------------
+  Footer
+-------------*/
+.foot-login {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 90px;
+  /*height: 300px; /* Set the fixed height of the footer here */
+  /*line-height: 60px; /* Vertically center the text there
+  background: rgb(52,144,220);
+  background: linear-gradient(90deg, rgba(52,144,220,1) 0%, rgba(101,116,205,1) 50%, rgba(149,97,226,1) 100%);*/
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding-top: 90px;
+  /*height: 300px; /* Set the fixed height of the footer here */
+  /*line-height: 60px; /* Vertically center the text there */
+  background: rgb(52,144,220);
+  background: linear-gradient(90deg, rgba(52,144,220,1) 0%, rgba(101,116,205,1) 50%, rgba(149,97,226,1) 100%);
+}
+
+.custom-shape-divider-top-1680150759 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1680150759 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.custom-shape-divider-top-1680150759 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.footer a {
+  color: #010C50; 
+}
+
+.footer a:hover {
+  color: #021280;
+}
+
+/*}.login.main-login {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}*/
+
+.login-btn {
+  color: #fff;
+  background: linear-gradient(90deg, rgba(52,144,220,1) 0%, rgba(101,116,205,1) 50%, rgba(149,97,226,1) 100%);
+  border: 0;
+}
+
+
+@media (min-width: 992px) {
+  .login.main-login .login-content {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .login.main-login .login-content .login-form {
+    width: 100%;
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .login.main-login .login-content .login-form {
+    width: 100%;
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .login.login-1 .login-content .login-form {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.login-card {
+  border: 0;
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+
+  
+  
+  min-height: 200px;
+  width: 50vw;
+  margin: 100px auto;
+  background: white;
+  border-radius: 5px;
+}
+
+#page {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-image: url("../public/img/subtle-prism.svg");
+}
+
+.o-contact-form.contact-form-style {
+  padding: 50px;
+  position: relative;
+  z-index: 1;
+  max-width: 490px;
+  padding-left: 60px;
+  z-index: 2;
+  background: var(--bs-white);
+  box-shadow: 0px 6px 34px rgba(215, 216, 222, 0.41);
+  border-radius: var(--bs-border-radius);
+
+}
+
+.max-width-auto {
+  max-width: inherit !important;
+}
+
+.form-control input {
+  background-color: var(--bs-gray);
+}
+/*  &>[class*="col"],
+  &>[class*="col-"] {
+      padding-left: 30px;
+      padding-right: 30px;
+
+      // Responsive
+      @media #{$laptop-device} {
+          padding-left: 30px;
+          padding-right: 30px;
+      }
+
+      @media #{$lg-layout} {
+          padding-left: 15px;
+          padding-right: 15px;
+      }
+
+      @media #{$md-layout} {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+      }
+
+      @media #{$sm-layout} {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+      }
+  }
+}*/
