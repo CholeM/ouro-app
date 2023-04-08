@@ -50,7 +50,7 @@ const ProductsPage = () => {
           </div>
           <div className="col-lg-6 order-1 order-lg-2">
             <div className="thumbnail">
-              <img src="../img/choose us.jpg" alt="why choose us" />
+              <img src="../img/swiftsell.jpg" alt="SwiftSell" />
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@ const ProductsPage = () => {
         <div className="row g-5 align-items-center">
           <div className="col-lg-6 order-2 order-lg-1">
             <div className="thumbnail">
-              <img src="../img/choose us.jpg" alt="why choose us" />
+              <img src="../img/designer.jpg" alt="DesignFlow" />
             </div>
           </div>
           <div className="col-lg-6 order-1 order-lg-2">
@@ -121,7 +121,7 @@ const ProductsPage = () => {
           </div>
           <div className="col-lg-6 order-1 order-lg-2">
             <div className="thumbnail">
-              <img src="../img/choose us.jpg" alt="why choose us" />
+              <img src="../img/hotelierpro.jpg" alt="HotelierPro" />
             </div>
           </div>
         </div>

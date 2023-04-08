@@ -53,7 +53,7 @@ const Footer = () => {
             <h5 className="text-uppercase">Contact Us</h5>
 
             <ul className="list-unstyled">
-              <li><b>Email:</b> <a href="mailto:info@ouro.com">info@ouro.com</a></li>
+              <li><b>Email:</b> <a href="#">info@ouro.com</a></li>
               <li><b>Phone:</b> (111) 111-1111</li>
             </ul>
           </div>
@@ -63,7 +63,7 @@ const Footer = () => {
         <div className="row text-white mt-3 text-center justify-content-center">
           <div className="col-md-6">
             © 2022 Copyright: {' '}
-            <a href="https://ouro.com/">Ouro Inc</a>
+            <a href="#">Ouro Inc</a>
           </div>
           <div className="col-md-4">
             <a href="#">Terms</a> 
