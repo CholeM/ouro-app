@@ -66,9 +66,7 @@ const Footer = () => {
             <a href="#">Ouro Inc</a>
           </div>
           <div className="col-md-4">
-            <a href="#">Terms</a> 
-            || 
-            <a href="#">Privacy Policy</a>
+            <a href="#">Terms</a> {' '} || <a href="#">Privacy Policy</a>
           </div>
         </div>
       </div>

@@ -505,3 +505,15 @@ a.o-modern-btn:hover::before {
     flex-basis: 50%;
   }
 }
+
+.list-unstyled li a {
+  text-decoration: none;
+}
+
+.col-md-6 a {
+  text-decoration: none;
+}
+
+.col-md-4 a {
+  text-decoration: none;
+}
