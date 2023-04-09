@@ -108,12 +108,28 @@
 /*--------------
   Background Img
 ---------------*/
-.bg_image-3 {
+.bg_image-1 {
   background: linear-gradient(90deg, #3490dc90, #9561e290), url('/img/homepage-main.jpg');
 }
 
-.bg_image-11 {
+.bg_image-2 {
   background: linear-gradient(90deg, #000000b8, #000000b8), url('/img/about.jpg');
+}
+
+.bg_image-3 {
+  background: linear-gradient(90deg, #000000b8, #000000b8), url('/img/services.jpg');
+}
+
+.bg_image-4 {
+  background: linear-gradient(90deg, #000000b8, #000000b8), url('/img/products.jpg');
+}
+
+.bg_image-5 {
+  background: linear-gradient(90deg, #000000b8, #000000b8), url('/img/careers.jpg');
+}
+
+.bg_image-6 {
+  background: linear-gradient(90deg, #000000b8, #000000b8), url('/img/contact.jpg');
 }
 
 .bg_image, .bgImagePosition {

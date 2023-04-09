@@ -18,7 +18,7 @@ import React from "react";
 const ServicesPage = () => {
   return (
     <main>
-      <div className="slider-area o-banner-5 height-500 bg_image bg_image-11" data-gradient-overlay="5">
+      <div className="slider-area o-banner-5 height-500 bg_image bg_image-3" data-gradient-overlay="5">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">

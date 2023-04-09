@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 const Homepage = () => {
   return (
     <main>
-      <div className="slider-area o-banner-5 height-750 bg_image bg_image-3" data-gradient-overlay="7">
+      <div className="slider-area o-banner-5 height-750 bg_image bg_image-1" data-gradient-overlay="7">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
