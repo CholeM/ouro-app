@@ -67,7 +67,7 @@ const ContactPage = () => {
 
             <div className="col-md-5 pl-5">
               <h3>Call</h3>
-              <p>Tel: (246) 431-8950</p>
+              <p>Tel: (111) 111-1111</p>
               <h3>Mail</h3>
               <p>Ouro Inc.<br />
                 12345 Fake Street<br />
